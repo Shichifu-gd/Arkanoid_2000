@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f9aae18cb2cb1af46bf06178cb8f9205, type: 3}
+  m_Name: Brick level 3
+  m_EditorClassIdentifier: 
+  Health: 3
+  BrickColor: {r: 0.3764706, g: 0.34901962, b: 0.34901962, a: 1}
+  PreBunusDrop:
+  - {fileID: 3472075704256547613, guid: 170282400c41edc4d90eb9f288d7a448, type: 3}
+  - {fileID: 3900841811762287469, guid: 530142c3acacb654e9955591a23f0e3a, type: 3}
+  - {fileID: 757386264984533997, guid: ff9ce11e8906d3346a90f98cb8926150, type: 3}
